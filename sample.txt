@@ -1,1 +1,2 @@
 Hello World
+In master this is new line
